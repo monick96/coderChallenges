@@ -13,8 +13,7 @@ public class numeroFlotanteMelgarejo {
         //print floating number
         System.out.println("The float number is : " + floatNumber);
 
-        //separate the integer part of the floating number by doing a
-        // conversion through casting
+        //separate the integer part of the floating number
         int integerPart = (int) floatNumber;
 
         //print casting float to integer result
