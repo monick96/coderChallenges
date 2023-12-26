@@ -1,3 +1,4 @@
+package challenge;
 
 /*
 Challenge1
