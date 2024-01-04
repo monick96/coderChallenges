@@ -4,7 +4,7 @@ package practice;
 //        El monto total es Capital Solicitado + intereses a pagar.
 //        La fórmula para calcular "cuánto interés se pagará" por un préstamo pedido al banco es:
 //        Interés a pagar = Capital solicitado x Interés x periodo en meses
-public class Loan {
+public class loan {
     public static void main(String[] args) {
         //loan details
         double requestedCapital = 55500;
